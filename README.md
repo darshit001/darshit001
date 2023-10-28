@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **darshitradadiya01@gmail.com**
 
-- ⚡ Fun fact **I think I playing cricket and also I can Teach very well to other.**
+- ⚡ Skill **I Love Read a Book.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
