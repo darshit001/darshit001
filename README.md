@@ -12,9 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darshit001&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/darshit001/github-profile-trophy)
 
-- 🔭 I’m currently working on **MERN STACK Development.**
-
-- 🌱 I’m currently learning **Data Structures And Algorithms And Machine Learning**
+- 🔭 I’m currently working on **AIML Development.**
 
 - 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions.**
 
@@ -22,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshit001](https://github.com/darshit001)
 
-- 💬 Ask me about **React,Node.js,Express.js,C++,Python,Data Structures And Algorithms.**
+- 💬 Ask me about **AI,ML,DL,RAG,C++,Python,Data Structures And Algorithms.**
 
 - 📫 How to reach me **darshitradadiya01@gmail.com**
 
