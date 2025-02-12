@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **AIML Development.**
 
-- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions.**
+- 👯 I’m looking to collaborate on **Hackerthon and Open Source Contributions.**
 
 - 🤝 I’m looking for help with **Opensource Contributions.**
 
