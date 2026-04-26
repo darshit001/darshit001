@@ -5,12 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=1+Year+Building+Scalable+AI+%26+Backend+Systems.;Agentic+RAG+%7C+Multi-Agent+Orchestration+%7C+LLMs.;Voice+Agents+%7C+Automation+%7C+n8n+%7C+Make.;FastAPI+%7C+Docker+%7C+Python+%7C+Real-world+AI.;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/darshit001)
 
 <p>
-  <a href="https://linkedin.com/in/darshit-radadiya918975230">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/darshit109">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/datshitradadiya2">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
@@ -27,7 +21,7 @@
 
 I'm an **AI Engineer & Backend Developer from India** with **1 year of hands-on experience** building real-world AI systems and scalable backend infrastructure.
 
-I focus on turning ideas into production-ready applications  designing intelligent systems that combine LLMs, APIs, and databases into reliable, high-performing solutions.
+I focus on turning ideas into production-ready applications — designing intelligent systems that combine LLMs, APIs, and databases into reliable, high-performing solutions.
 
 Currently, I'm deeply working on **agentic AI systems**, building multi-agent architectures that can plan, reason, retrieve context, and execute tasks autonomously across complex workflows.
 
@@ -52,6 +46,7 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **Frameworks & Libraries:**
 
@@ -75,8 +70,6 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-
-
 **Tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,10 +77,6 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-
 
 ---
 
@@ -123,16 +112,6 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 
 ---
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 📈 Profile Views
 
 <div align="center">
@@ -141,11 +120,19 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 
 <br/><br/>
 
-[![Holopin Badges](https://holopin.me/darshit001)](https://holopin.io/@darshit001)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let%27s+build+something+incredible+together.;Always+open+to+collaborations+%26+new+ideas!" />
 
 <br/>
 
-*"Build things that matter. Ship things that work."*
+<a href="mailto:darshitradadiya01@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20a%20Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/darshit001?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Work-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
