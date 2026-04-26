@@ -1,47 +1,152 @@
-[![An image of @darshit001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshit001)](https://holopin.io/@darshit001)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Darshit%20Radadiya&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Agent%20Builder&descAlignY=60&descSize=17" />
 
-<h1 align="center">Hi 👋, I'm Darshit Radadiya</h1>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=1000&height=45&lines=A+passionate+AIML+Developer+and+Programmer+from+India.;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=1+Year+Building+Scalable+AI+%26+Backend+Systems.;Agentic+RAG+%7C+Multi-Agent+Orchestration+%7C+LLMs.;Voice+Agents+%7C+Automation+%7C+n8n+%7C+Make.;FastAPI+%7C+Docker+%7C+Python+%7C+Real-world+AI.;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/darshit001)
 
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit001&label=Profile%20views&color=0e75b6&style=flat" alt="darshit001" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=darshit001&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/darshit001/github-profile-trophy)
-
-- 🔭 I’m currently working on **AIML Development.**
-
-- 👯 I’m looking to collaborate on **Hackerthon and Open Source Contributions.**
-
-- 🤝 I’m looking for help with **Opensource Contributions.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/darshit001](https://github.com/darshit001)
-
-- 💬 Ask me about **AI,ML,DL,RAG,C++,Python,Data Structures And Algorithms.**
-
-- 📫 How to reach me **darshitradadiya01@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/darshit109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshit001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshit-radadiya918975230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshit-radadiya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/datshitradadiya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshit-radadiya" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,css,firebase,git,github,html,js,mysql,stackoverflow,vscode,visualstudio,&perline=12" />
-  </a>
+  <a href="https://linkedin.com/in/darshit-radadiya918975230">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/darshit109">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/datshitradadiya2">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="mailto:darshitradadiya01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=darshit001&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="darshit001" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=darshit001&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="darshit001"/></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshit001&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="darshit001" /></p>
+## 🧠 About Me
+
+I'm an **AI Engineer & Backend Developer from India** with **1 year of hands-on experience** building real-world AI systems and scalable backend infrastructure.
+
+I focus on turning ideas into production-ready applications  designing intelligent systems that combine LLMs, APIs, and databases into reliable, high-performing solutions.
+
+Currently, I'm deeply working on **agentic AI systems**, building multi-agent architectures that can plan, reason, retrieve context, and execute tasks autonomously across complex workflows.
+
+I enjoy working at the intersection of **AI engineering and backend systems**, where performance, scalability, and practical impact matter the most.
+
+```
+🤖  Agentic RAG · Multi-Agent Orchestration · Voice Agents · LLM Pipelines
+⚙️  FastAPI · Docker · Python · REST APIs · Backend Architecture
+🔁  Workflow Automation · n8n · Make (Integromat) · Telegram Bots
+```
+
+- 🔨 **Currently:** Building production AI agents and scalable backend APIs
+- 🤝 **Open to:** Hackathons · Open Source · AI / Backend collaborations
+- 💬 **Ask me about:** LangChain · LangGraph · RAG · FastAPI · Agentic AI · C++ · DSA
+- 📬 **Email:** [darshitradadiya01@gmail.com](mailto:darshitradadiya01@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Libraries:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=4FC3F7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**AI / Agentic:**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-7C3AED?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Voice Agents](https://img.shields.io/badge/Voice%20Agents-E91E63?style=for-the-badge&logo=googleassistant&logoColor=white)
+
+**Automation & Workflow:**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+
+**Tools:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+
+
+---
+
+## 🔝 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshit001&hide=html&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&layout=donut-vertical" />
+
+</div>
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=darshit001&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshit001&theme=tokyonight&hide_border=true&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" height="170" />
+
+</div>
+
+---
+
+## ⌛ Github Commit Graph
+
+<div align="center">
+
+[![Darshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshit001&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F472B6&area=true&area_color=7C3AED&hide_border=true&radius=6)](https://github.com/darshit001)
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=darshit001&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+
+<br/><br/>
+
+[![Holopin Badges](https://holopin.me/darshit001)](https://holopin.io/@darshit001)
+
+<br/>
+
+*"Build things that matter. Ship things that work."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
