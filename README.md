@@ -77,17 +77,6 @@ I enjoy working at the intersection of **AI engineering and backend systems**, w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔝 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshit001&hide=html&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&layout=donut-vertical" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Stats
